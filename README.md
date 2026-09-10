@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm loganai881 👋
 
-<!--
-**loganai881/loganai881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Berlin. Mostly spending time building backend services, CLI tools, and contributing to open source projects.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🛠️ Hacking on distributed systems tooling in Go
+- 🐍 Maintaining a few Python automation packages
+- ⚙️ Tuning dotfiles and Lua configs for Neovim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack & Tools
+- **Languages:** Go, Python, JavaScript
+- **Infra / Ops:** Docker, Linux, GitHub Actions
+- **Editor:** Neovim
+
+#### Reach out
+- Open an issue or PR on any of my repos
+- Email: loganai881@proton.me
